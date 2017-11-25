@@ -1,1 +1,2 @@
-# LB-PHP-Starter
+<?php
+echo "Welcome to BOT";
